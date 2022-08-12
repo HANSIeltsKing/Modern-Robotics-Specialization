@@ -5,7 +5,7 @@ Latest Submission Grade 100%
 To pass 80% or higher
 <br/>
 <br/>
-**Question 1 What is the Lie bracket [g1,g2]**
+**Question 1 What is the Lie bracket [g1,g2]?**
 1 / 1 point    
 
 **A,I,H,A,A**   
