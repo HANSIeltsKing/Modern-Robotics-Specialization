@@ -1,37 +1,42 @@
-# Lesson 1 Quiz
+# Quiz1
+Congratulations! You passed!
+Grade received 100%
 Latest Submission Grade 100%
+To pass 80% or higher
 <br/>
 <br/>
-**Question 1 Which of the following defines a complete GIS?**    
+**Question 1 Which of the following properties is satisfied by the planner?**
+1 / 1 point    
+
+**The planner finds solutions that go exactly to the goal configuration, as opposed to those that go approximately to the goal configuration.**
+**The planner finds optimal (shortest) solutions, as opposed to simply satisficing solutions.**
+**The planner is complete.**
+
+<br/>
+<br/>
+
+**Question 2 How many connected components does the free C-space have?**    
 1 / 1 point
 
-Google Maps and only Google Maps  
-
-A map    
-
-**Software and data that enables us to ask and answer questions involving where something is and how that location relates to other things**   
-
-A collection of spatial data stored in any system    
-
-Correct
-A GIS, or Geographic Information System is a combination of software and data that can analyze spatial relationships, or display location information.    
+**4**
+ 
 <br/>
 <br/>
 
-**Question 2 When did the widespread use of graphical GIS begin?**    
+**Question 3 Which node will be explored from next?**    
 1 / 1 point
 
-1970s
+**Not enough information to say.**
 
-1980s
-
-1960s
-
-**1990s**
-
-Windows and Macintosh desktop computers with a graphical user interface allowed for the development of graphical GIS in the 1990s.    
 <br/>
 <br/>
 
-**Question 3 Which of the following best describes the raster data type?**    
+**Question 4 Which of the following is a correct characterization?**    
 1 / 1 point
+
+**Weighted**
+**Directed**
+
+<br/>
+<br/>
+
