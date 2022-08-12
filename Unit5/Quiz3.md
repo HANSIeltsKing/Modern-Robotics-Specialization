@@ -1,37 +1,56 @@
-# Lesson 1 Quiz
+# Quiz3
+Congratulations! You passed!
+Grade received 100%
 Latest Submission Grade 100%
+To pass 80% or higher
 <br/>
 <br/>
-**Question 1 Which of the following defines a complete GIS?**    
+**Question 1 Calculate u1 u2 u3 u4 when Vb=(1,0,0).**    
+1 / 1 point    
+
+**-11.31,-11.31,-11.31,-11.31**   
+
+<br/>
+<br/>
+
+**Question 2 Calculate u1 u2 u3 u4 when Vb=(1,2,3).**    
 1 / 1 point
 
-Google Maps and only Google Maps  
-
-A map    
-
-**Software and data that enables us to ask and answer questions involving where something is and how that location relates to other things**   
-
-A collection of spatial data stored in any system    
-
-Correct
-A GIS, or Geographic Information System is a combination of software and data that can analyze spatial relationships, or display location information.    
+**-14.14,2.83,-8.49,-25.46**
+ 
 <br/>
 <br/>
 
-**Question 2 When did the widespread use of graphical GIS begin?**    
+**Question 3 Find the max value of sqrt(vx^2+vy^2).**    
 1 / 1 point
 
-1970s
+**3.53**
 
-1980s
-
-1960s
-
-**1990s**
-
-Windows and Macintosh desktop computers with a graphical user interface allowed for the development of graphical GIS in the 1990s.    
 <br/>
 <br/>
 
-**Question 3 Which of the following best describes the raster data type?**    
+**Question 4 Find the dimension of the space S.**    
 1 / 1 point
+
+**4**
+  
+<br/>
+<br/>
+
+**Question 5 Find the maximum angular velocity.**    
+1 / 1 point
+
+**5**
+ 
+<br/>
+<br/>
+
+**Question 6 Find the expression of the g1(q).**    
+1 / 1 point
+
+**c**
+ 
+<br/>
+<br/>
+
+
