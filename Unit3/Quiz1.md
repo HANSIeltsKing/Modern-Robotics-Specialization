@@ -13,7 +13,7 @@ To pass 80% or higher
 <br/>
 <br/>
 
-**Question 2 Find the right expression for the component of the joint torque at joint 1 corresponding to the component**    
+**Question 2 Find the right expression for the component of the joint torque at joint 1 corresponding to the component.**    
 1 / 1 point
 
 **τ11=mθ2¨sinθ2+mθ˙22cosθ2**
@@ -21,7 +21,7 @@ To pass 80% or higher
 <br/>
 <br/>
 
-**Question 3 Find the right expression for the component of joint torque at joint 2 corresponding to the component**    
+**Question 3 Find the right expression for the component of joint torque at joint 2 corresponding to the component.**    
 1 / 1 point
 
 **τ21=mθ1¨sinθ2**
