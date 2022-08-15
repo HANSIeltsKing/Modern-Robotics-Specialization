@@ -13,7 +13,8 @@
 **Modern Robotics, Course 5: Robot Manipulation and Wheeled Mobile Robots**
 <br/>
 **Modern Robotics, Course 6: Capstone Project, Mobile Manipulation**
-
+<br/>
+**All quiz answers are provided by HANSIeltsKing!**
 <br/>
 <br/>
 
