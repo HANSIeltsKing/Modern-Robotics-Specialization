@@ -5,97 +5,70 @@ Latest Submission Grade 100%
 To pass 80% or higher
 <br/>
 <br/>
-**Question 1 Which of the points A through G gets a + label?**    
+**Question 1 What force magnitudes f1 and f2 must the two fingers apply**    
 1 / 1 point    
 
-**D**   
+**30,20**   
 
 <br/>
 <br/>
 
-**Question 2 Which of the points A through G gets a − label?**    
+**Question 2 If the contact mode is SrSr, the contact wrench the table applies to the box can be any positive linear combination of which friction cone edges?**    
 1 / 1 point
 
-**C**
+**ac**
  
 <br/>
 <br/>
 
-**Question 3 Which points would allow you to achieve form closure by adding a contact at that point?**    
+**Question 3 If the contact mode is BR, the contact wrench the table applies to the box can be any positive linear combination of which friction cone edges?**    
 1 / 1 point
 
-**ABEFG**
+**cd**
 
 <br/>
 <br/>
 
-**Question 4 What is the contact mode for the center of rotation at A?**    
+**Question 4 If the contact mode is BSr, the contact wrench the table applies to the box can be any positive linear combination of which friction cone edges?**    
 1 / 1 point
 
-**BB**
+**c**
   
 <br/>
 <br/>
 
-**Question 5 What is the contact mode for the center of rotation at B?**    
+**Question 5 If the contact mode is SrSr as the finger moves to the right, in which areas might the center of mass be?**    
 1 / 1 point
 
-**BSr**
+**ABDG**
  
 <br/>
 <br/>
 
-**Question 6 What is the contact mode for the center of rotation at C?**    
+**Question 6 If the contact mode is BR as the finger moves to the right, in which areas might the center of mass be?**    
 1 / 1 point
 
-**SlB**
- 
-<br/>
-<br/>
-
-
-**Question 7 What is the contact mode for the center of rotation at D?**    
-1 / 1 point
-
-**BR**
+**ACDEFG**
  
 <br/>
 <br/>
 
 
-**Question 8 What is the dimension of the twist cone for the rigid body that maintains a rolling (R) contact at one of the contacts and a sliding (S) contact at the other contact?**    
+**Question 7 If your robot hand has only two fingers, so you can only choose two of these contact locations, which two contact locations give a force-closure grasp?**    
 1 / 1 point
 
-**2**
+**A and C**
+**B and D**
  
 <br/>
 <br/>
 
 
-**Question 9 What is the contact mode of the twist V=(2,0,0,0,1,0)?**    
+**Question 8 How many rows and columns does the FFF matrix have?**    
 1 / 1 point
 
-**SP**
+**6,16**
  
 <br/>
 <br/>
-
-
-**Question 10 What is the contact mode of the twist V=(2,0,0,0,1,6)?**    
-1 / 1 point
-
-**BS**
- 
-<br/>
-<br/>
-
-
-**Question 11 What labels are assigned to points in the regions labeled 1, 2, 3, and 4?**    
-1 / 1 point
-
-**bbbb**
- 
-<br/>
-<br/>
-
 
