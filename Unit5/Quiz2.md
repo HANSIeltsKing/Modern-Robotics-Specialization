@@ -1,37 +1,101 @@
-# Lesson 1 Quiz
+# Quiz2
+Congratulations! You passed!
+Grade received 100%
 Latest Submission Grade 100%
+To pass 80% or higher
 <br/>
 <br/>
-**Question 1 Which of the following defines a complete GIS?**    
+**Question 1 Which of the points A through G gets a + label?**    
+1 / 1 point    
+
+**D**   
+
+<br/>
+<br/>
+
+**Question 2 Which of the points A through G gets a − label?**    
 1 / 1 point
 
-Google Maps and only Google Maps  
-
-A map    
-
-**Software and data that enables us to ask and answer questions involving where something is and how that location relates to other things**   
-
-A collection of spatial data stored in any system    
-
-Correct
-A GIS, or Geographic Information System is a combination of software and data that can analyze spatial relationships, or display location information.    
+**C**
+ 
 <br/>
 <br/>
 
-**Question 2 When did the widespread use of graphical GIS begin?**    
+**Question 3 Which points would allow you to achieve form closure by adding a contact at that point?**    
 1 / 1 point
 
-1970s
+**ABEFG**
 
-1980s
-
-1960s
-
-**1990s**
-
-Windows and Macintosh desktop computers with a graphical user interface allowed for the development of graphical GIS in the 1990s.    
 <br/>
 <br/>
 
-**Question 3 Which of the following best describes the raster data type?**    
+**Question 4 What is the contact mode for the center of rotation at A?**    
 1 / 1 point
+
+**BB**
+  
+<br/>
+<br/>
+
+**Question 5 What is the contact mode for the center of rotation at B?**    
+1 / 1 point
+
+**BSr**
+ 
+<br/>
+<br/>
+
+**Question 6 What is the contact mode for the center of rotation at C?**    
+1 / 1 point
+
+**SlB**
+ 
+<br/>
+<br/>
+
+
+**Question 7 What is the contact mode for the center of rotation at D?**    
+1 / 1 point
+
+**BR**
+ 
+<br/>
+<br/>
+
+
+**Question 8 What is the dimension of the twist cone for the rigid body that maintains a rolling (R) contact at one of the contacts and a sliding (S) contact at the other contact?**    
+1 / 1 point
+
+**2**
+ 
+<br/>
+<br/>
+
+
+**Question 9 What is the contact mode of the twist V=(2,0,0,0,1,0)?**    
+1 / 1 point
+
+**SP**
+ 
+<br/>
+<br/>
+
+
+**Question 10 What is the contact mode of the twist V=(2,0,0,0,1,6)?**    
+1 / 1 point
+
+**BS**
+ 
+<br/>
+<br/>
+
+
+**Question 11 What labels are assigned to points in the regions labeled 1, 2, 3, and 4?**    
+1 / 1 point
+
+**bbbb**
+ 
+<br/>
+<br/>
+
+
