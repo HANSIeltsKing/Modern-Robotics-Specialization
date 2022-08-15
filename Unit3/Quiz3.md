@@ -38,19 +38,31 @@ To pass 80% or higher
 <br/>
 
 
-**Question 5 Find the joint acceleration.**    
+**Question 5 Calculate the current path parameter s.**    
 1 / 1 point
 
-**[0.10001202, 0.09994735, 0.10016669, 0.0998537, 0.10018617, 0.10190745]**
+**0.6826**
 
 <br/>
 <br/>
 
 
-**Question 6 What is the inertia?**    
+**Question 6 Use the function ScrewTrajectory in the given software to calculate a trajectory.**    
 1 / 1 point
 
-**200 kg m2**
+**[[ 0.04229152, -0.04057269,  0.99828116,  0.93313173],[ 0.99828116,  0.04229152, -0.04057269,  1.97198558],[-0.04057269,  0.99828116,  0.04229152,  2.88912137],[ 0        ,  0        ,  0        ,  1]]**
 
 <br/>
 <br/>
+
+
+**Question 7 Use the function CartesianTrajectory in the MR library to calculate another trajectory.**    
+1 / 1 point
+
+**[[ 0.04229152, -0.04057269,  0.99828116,  0.93313173],[ 0.99828116,  0.04229152, -0.04057269,  1.97198558],[-0.04057269,  0.99828116,  0.04229152,  2.88912137],[ 0        ,  0        ,  0        ,  1]]**
+
+<br/>
+<br/>
+
+
+
